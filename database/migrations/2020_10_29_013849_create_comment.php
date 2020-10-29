@@ -17,10 +17,9 @@ class CreateComment extends Migration
             $table->id('id_comment');
             $table->string('comment_title')->nullable();
             $table->text('content');
-            $table->integer('id_video');
-            $table->integer('id_livestream');
-            $table->integer('id_blog');
-            $table->timestamps();
+            $table->integer('id_video')->nullable();
+            $table->integer('id_livestream')->nullable();
+            $table->integer('id_blog')->nullable();
         });
     }
 
