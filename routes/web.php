@@ -25,3 +25,11 @@ Route::get('/login', function (){
 Route::get('/blog', function (){
     return view('blog');
 });
+
+Route::get('/blog', function (){
+    return view('blog');
+});
+
+Route::get('/video', function (){
+    return view('video');
+});

@@ -520,8 +520,8 @@ https://templatemo.com/tm-538-digital-trend
 
   .blog-sidebar img {
     border-radius: var(--border-radius-small);
-    width: 159px;
     margin-right: 22px;
+    height: 200px;
   }
 
   .blog-sidebar h3 {
