@@ -564,6 +564,28 @@ https://templatemo.com/tm-538-digital-trend
     background: var(--secondary-color);
   }
 
+/*---------------------------------------
+     VIDEO CATALOG              
+  -----------------------------------------*/
+
+.tm-categories-container {
+    display: flex;
+    align-items: center;
+}
+
+.tm-category-link.active,
+.tm-category-link:hover {
+    border-bottom: 3px solid #3399CC;
+    color: #3399CC;
+}
+
+.tm-category-link {
+    color: #3399CC;
+    padding: 10px;
+    border-bottom: 3px solid transparent;
+}
+
+.tm-page-title { font-size: 2.5rem; }
 
 
   /*---------------------------------------

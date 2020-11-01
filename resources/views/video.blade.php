@@ -36,6 +36,7 @@ https://templatemo.com/tm-538-digital-trend
               <i class="fa fa-line-chart"></i>
               Digital Trend
             </a>
+            
 
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false"
                 aria-label="Toggle navigation">
@@ -70,38 +71,74 @@ https://templatemo.com/tm-538-digital-trend
           <div class="container">
                <div class="row">
 
-                    <div class="col-lg-12 col-12 py-5 mt-5 mb-3 text-center">
+                    <div class="col-lg-12 col-12 mb-3 text-center">
 
-                      <h1 class="mb-4" data-aos="fade-up">Digital Trend Blog</h1>
+                      <h1 class="mb-4" data-aos="fade-up">Our Video Catalog</h1>
                     </div>
 
-                    
+                    <div class="row" data-aos="fade-up">
+                        <div class="col-12">
+                            <div class="tm-categories-container mb-5">
+                                <h3 class="tm-text-primary tm-categories-text">Categories:</h3>
+                                <ul class="nav tm-category-list">
+                                    <li class="nav-item tm-category-item"><a href="#" class="tm-category-link active">All</a></li>
+                                    <li class="nav-item tm-category-item"><a href="#" class="tm-category-link">Drone Shots</a></li>
+                                    <li class="nav-item tm-category-item"><a href="#" class="tm-category-link">Nature</a></li>
+                                    <li class="nav-item tm-category-item"><a href="#" class="tm-category-link">Actions</a></li>
+                                    <li class="nav-item tm-category-item"><a href="#" class="tm-category-link">Featured</a></li>
+                                </ul>
+                            </div>        
+                        </div>
+                    </div>
                     <div class="row">
-                      <div class="blog-sidebar col-lg-4 col-md-6 col-sm-12 d-flex flex-column justify-content-left align-items-left" data-aos="fade-up" data-aos-delay="200">
+                      <div class="blog-sidebar col-lg-4 col-md-6 col-sm-12 d-flex flex-column justify-content-left align-items-left mb-4" data-aos="fade-up" data-aos-delay="200">
                         <img src="images/blog/blog-sidebar-image.jpg" class="img-fluid" alt="blog">
 
-                        <div class="blog-info">
-                          <h4 class="blog-category text-danger">Design</h4>
+                        <div class="blog-info mt-2 mb-2">
 
                           <h3><a href="blog-detail.html">Why Truly Accessible Design Benefits Everyone</a></h3>
                         </div>
                       </div>
 
-                      <div class="blog-sidebar col-lg-4 col-md-6 col-sm-12 d-flex flex-column justify-content-left align-items-left" data-aos="fade-up" data-aos-delay="200">
+                      <div class="blog-sidebar col-lg-4 col-md-6 col-sm-12 d-flex flex-column justify-content-left align-items-left mb-4" data-aos="fade-up" data-aos-delay="200">
                         <img src="images/blog/blog-sidebar-image01.jpg" class="img-fluid" alt="blog">
 
-                        <div class="blog-info">
-                          <h4 class="blog-category text-success">lifestyle</h4>
+                        <div class="blog-info mt-2 mb-2">
 
                           <h3><a href="blog-detail.html">Be Humble About What You Know</a></h3>
                         </div>
                       </div>
 
-                      <div class="blog-sidebar col-lg-4 col-md-6 col-sm-12 d-flex flex-column justify-content-left align-items-left" data-aos="fade-up" data-aos-delay="200">
+                      <div class="blog-sidebar col-lg-4 col-md-6 col-sm-12 d-flex flex-column justify-content-left align-items-left mb-4" data-aos="fade-up" data-aos-delay="200">
                         <img src="images/blog/blog-sidebar-image02.jpg" class="img-fluid" alt="blog">
 
-                        <div class="blog-info">
-                          <h4 class="blog-category text-primary">Coding</h4>
+                        <div class="blog-info mt-2 mb-2">
+
+                          <h3><a href="blog-detail.html">The Mistakes I Made As a Coding Beginner</a></h3>
+                        </div>
+                      </div>
+                      <div class="blog-sidebar col-lg-4 col-md-6 col-sm-12 d-flex flex-column justify-content-left align-items-left mb-4" data-aos="fade-up" data-aos-delay="200">
+                        <img src="images/blog/blog-sidebar-image.jpg" class="img-fluid" alt="blog">
+
+                        <div class="blog-info mt-2 mb-2">
+
+                          <h3><a href="blog-detail.html">Why Truly Accessible Design Benefits Everyone</a></h3>
+                        </div>
+                      </div>
+
+                      <div class="blog-sidebar col-lg-4 col-md-6 col-sm-12 d-flex flex-column justify-content-left align-items-left mb-4" data-aos="fade-up" data-aos-delay="200">
+                        <img src="images/blog/blog-sidebar-image01.jpg" class="img-fluid" alt="blog">
+
+                        <div class="blog-info mt-2 mb-2">
+
+                          <h3><a href="blog-detail.html">Be Humble About What You Know</a></h3>
+                        </div>
+                      </div>
+
+                      <div class="blog-sidebar col-lg-4 col-md-6 col-sm-12 d-flex flex-column justify-content-left align-items-left mb-4" data-aos="fade-up" data-aos-delay="200">
+                        <img src="images/blog/blog-sidebar-image02.jpg" class="img-fluid" alt="blog">
+
+                        <div class="blog-info mt-2 mb-2">
 
                           <h3><a href="blog-detail.html">The Mistakes I Made As a Coding Beginner</a></h3>
                         </div>
