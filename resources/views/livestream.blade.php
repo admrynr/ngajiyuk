@@ -79,12 +79,14 @@ https://templatemo.com/tm-538-digital-trend
                       <h1 class="mb-4 " data-aos="fade-up">Our Livestream</h1>
                     </div>
 
-                    <div class="row mb-5 mx-auto" data-aos="fade-up">
-                      <div class="col-12">
-                        <!-- Video player 1422x800 -->
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/L3gJ1H6WX9w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <div class="d-flex flex-row justify-content-center col-12 mb-5" data-aos="fade-up">
+                      <div class="container col-8 livestream">
+                        <!-- IFRAME YOUTUBE -->
+                        <iframe class="livestream-player col-12" width="640" height="360" src="https://www.youtube.com/embed/DDU-rZs-Ic4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-                      <script src="https://vjs.zencdn.net/7.8.4/video.js"></script>
+                      </div>
+                      <div class="container col-4 livestream-side">
+                        <h4 class="mt-4 ml-4 mr-4 text-center" >Judul Livestreaming asdas asdasdas asdasda</h4>
                       </div>
                     </div>
                   

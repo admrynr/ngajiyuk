@@ -356,7 +356,23 @@ https://templatemo.com/tm-538-digital-trend
     top: 2em;
   }
 
+/*---------------------------------------
+     LIVESTREAM              
+  -----------------------------------------*/
+.livestream-side {
+  background: var(--project-bg);
+  padding-left: 0px;
+  padding-right: 0px;
+}
 
+.livestream {
+  padding-right: 0px;
+}
+
+.livestream-player {
+  padding-left: 0px;
+  padding-right: 0px;
+}
 
   /*---------------------------------------
      PROJECT              
