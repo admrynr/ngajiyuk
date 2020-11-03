@@ -33,3 +33,7 @@ Route::get('/blog', function (){
 Route::get('/video', function (){
     return view('video');
 });
+
+Route::get('/livestream', function (){
+    return view('livestream');
+});
