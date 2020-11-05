@@ -86,7 +86,11 @@ https://templatemo.com/tm-538-digital-trend
 
                       </div>
                       <div class="container col-4 livestream-side">
-                        <h4 class="mt-4 ml-4 mr-4 text-center" >Judul Livestreaming asdas asdasdas asdasda</h4>
+                          <a class="mt-4 ml-4 mr-4 mb-2 navbar-livestream" href="">
+                          <i class="fa fa-tag mr-1" aria-hidden="true"></i>
+                          Category
+                          </a>
+                        <h4 class=" ml-4 mr-4 col-10 text-center" >Judul Livestreaming asdas asdasdas asdasda</h4>
                       </div>
                     </div>
                   

@@ -360,9 +360,19 @@ https://templatemo.com/tm-538-digital-trend
      LIVESTREAM              
   -----------------------------------------*/
 .livestream-side {
-  background: var(--project-bg);
+  background: var(--dark-color);
   padding-left: 0px;
   padding-right: 0px;
+}
+
+.navbar-livestream {
+  color: var(--white-color);
+  font-size: var(--menu-font-size);
+  display: inline-block;
+}
+
+.livestream-side h4 {
+  color: var(--white-color);
 }
 
 .livestream {
