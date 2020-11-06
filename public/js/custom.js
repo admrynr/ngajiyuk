@@ -24,7 +24,25 @@
           }, 1000);
             event.preventDefault();
       });
-    });  
+    });
+    
+    // HERO SLIDE
+    $('#hero-slide').owlCarousel({
+      loop: true,
+      center: true,
+      autoplayHoverPause: false,
+      autoplay: true,
+      margin: 0,
+      responsiveClass:true,
+      responsive:{
+          0:{
+              items:1,
+          },
+          8:{
+              items:2,
+          }
+      }
+    });
 
 
     // PROJECT SLIDE
