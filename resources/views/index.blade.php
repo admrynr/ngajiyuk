@@ -66,21 +66,29 @@ https://templatemo.com/tm-538-digital-trend
 
 
      <!-- HERO -->
-     <section class="hero">
-          <ul class="owl-carousel owl-theme" id="hero-slide">
-               <li>
-                    <img src="images/slide_01.jpg" />
-                    <p class="flex-caption">Adventurer Cheesecake Brownie</p>
-               </li>
-               <div>
-                    <img src="images/slide_02.jpg" />
-                    <p class="flex-caption">Adventurer Lemon</p>
-               </li>
-               <li>
-                    <img src="images/slide_03.jpg" />
-                    <p class="flex-caption">Adventurer Donut</p>
-               </li>
-          </ul> 
+     <section>
+     <div class="banner header-text">
+      <div class="owl-banner owl-carousel">
+        <div class="banner-item-01">
+          <div class="text-content">
+            <h4>Best Offer</h4>
+            <h2>New Arrivals On Sale</h2>
+          </div>
+        </div>
+        <div class="banner-item-02">
+          <div class="text-content">
+            <h4>Flash Deals</h4>
+            <h2>Get your best products</h2>
+          </div>
+        </div>
+        <div class="banner-item-03">
+          <div class="text-content">
+            <h4>Last Minute</h4>
+            <h2>Grab last minute deals</h2>
+          </div>
+        </div>
+      </div>
+     </div> 
      </section>
 
 

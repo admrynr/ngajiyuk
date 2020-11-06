@@ -27,22 +27,33 @@
     });
     
     // HERO SLIDE
-    $('#hero-slide').owlCarousel({
+    $('.owl-banner').owlCarousel({
       loop: true,
-      center: true,
-      autoplayHoverPause: false,
+      nav: true,
+      dots: true,
+      items: 1,
       autoplay: true,
-      margin: 0,
-      responsiveClass:true,
-      responsive:{
-          0:{
-              items:1,
+      smartSpeed: 700,
+      autoplayTimeout: 6000,
+      responsive: {
+          0: {
+              items: 1,
+              margin: 0
           },
-          8:{
-              items:2,
+          460: {
+              items: 1,
+              margin: 0
+          },
+          576: {
+              items: 1,
+              margin: 0
+          },
+          992: {
+              items: 1,
+              margin: 0
           }
       }
-    });
+  });
 
 
     // PROJECT SLIDE
