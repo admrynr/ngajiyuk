@@ -92,7 +92,7 @@ https://templatemo.com/tm-538-digital-trend
                           </div>
         
                           <div class="col-lg-5 mx-auto col-7">
-                            <button type="submit" class="form-control" id="submit-button" name="submit">Submit</button>
+                            <a type="submit" class="form-control text-center" id="submit-button" href="/admin" name="submit">Submit</a>
                           </div>
                         </div>
                       </form>

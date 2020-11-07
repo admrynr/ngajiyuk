@@ -37,3 +37,7 @@ Route::get('/video', function (){
 Route::get('/livestream', function (){
     return view('livestream');
 });
+
+Route::get('/admin', function (){
+    return view('admin');
+});
