@@ -90,7 +90,10 @@ https://templatemo.com/tm-538-digital-trend
                           <i class="fa fa-tag mr-1" aria-hidden="true"></i>
                           Category
                           </a>
-                        <h4 class=" ml-4 mr-4 col-10 text-center" >Judul Livestreaming asdas asdasdas asdasda</h4>
+                        <h4 class=" ml-4 mr-4 mb-1 text-left" >Judul Livestreaming asdas asdasdas asdasda</h4>
+                          <p class="ml-4 mr-4 mb-2 speaker-livestream">
+                          Ustadz Fulan
+                        </p>
                       </div>
                     </div>
                   
